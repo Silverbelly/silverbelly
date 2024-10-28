@@ -1,4 +1,11 @@
-## Hi there 👋
+
+# Welcome!
+
+### My name is Jon Noel.  I'm an Information Technology Professional in the Dallas-Fort Worth area.
+
+  
+I'm known on GitHub as Silverbelly. Perpahs we'll collaberate on a project one day.
+
 
 <!--
 **Silverbelly/silverbelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
