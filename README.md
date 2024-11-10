@@ -1,7 +1,7 @@
 
 # Welcome!
 
-### My name is Jon Noel.  I'm an Information Technology Professional in the Dallas-Fort Worth area.
+#### My name is Jon Noel.  I'm an Information Technology Professional in the Dallas-Fort Worth area.
 
   
 
