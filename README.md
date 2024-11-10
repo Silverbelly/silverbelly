@@ -3,9 +3,14 @@
 
 #### My name is Jon Noel.  I'm an Information Technology Professional in the Dallas-Fort Worth area.
 
+My professional experience covers a broad spectrum of technology disciplines, including...
+- frontend and backend development
+- web and client-server applications
+- database development and administration
+- network and firewall maintenance
+- and more  
   
-
-Have a look at my [LinkedIn Profile](https://www.linkedin.com/in/jon-p-noel/) to learn more about me.
+Have a look at my [LinkedIn Profile](https://www.linkedin.com/in/jon-p-noel/) to learn more about my background and qualifications.
 
 <!--
 **Silverbelly/silverbelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
